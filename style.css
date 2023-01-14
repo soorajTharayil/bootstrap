@@ -1,0 +1,11 @@
+.gold{
+    color:#c29938;
+}
+
+.box-color{
+    border-color: #c29938;
+}
+.box-color:hover{
+    background-color: #c29938;
+}
+
